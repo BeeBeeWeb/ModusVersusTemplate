@@ -397,7 +397,11 @@ footer .logo{
   .footer-text,.company,.community{
     padding: 20px 50px;
   }
-
+  
+  .rightSpace5{
+	  margin-right: 0;
+  }
+  
   .copyRight{
     float: none!important;
     margin: 5px 0!important;;
